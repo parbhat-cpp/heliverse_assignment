@@ -1,1 +1,1 @@
-export const SERVER_URL = "http://localhost:5000";
+export const SERVER_URL = "https://heliverse-assignment-server-0rv4.onrender.com";
